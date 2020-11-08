@@ -8,4 +8,4 @@
 
 **Note:** if you want to compiled the program again, type this before `./shell`:
 
-	`gcc shell.c -o shell`
+	`gcc simple-shell.c -o shell`
