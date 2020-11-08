@@ -1,5 +1,5 @@
 ### Operating system - Lab 01 - HCMUS
-** To run project ***
+** To run project **
 1. Open terminal in Linux
 
 2. cd to project folder (if necessary). **Type**: 
